@@ -1,3 +1,5 @@
+### 👋 HI, I'm Akshat! (ak-47)
+
 # 💫 About Me:
 👩🏻‍💻 Cybersecurity Enthusiast, learning new technologies and trying to improve everyday<br>👩🏻‍🎓 Studying Computer Science at Amity University, India<br>🔭 Currently working on Secure Ballot Project<br>🌱 Learning Splunk and SIEM !!<br>⚡ Fun fact - Security is "MYTH" 
 
