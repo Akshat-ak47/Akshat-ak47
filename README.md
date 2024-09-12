@@ -1,7 +1,7 @@
 ### 👋 HI, I'm Akshat!
 
 # 💫 About Me:
-👩🏻‍💻 Passionate Data Analyst and Cybersecurity Enthusiast, specializing in machine learning, data analytics, and innovative tech solutions.<br>👩🏻‍🎓 Studying Computer Science at Amity University, India<br>🔭 Actively seeking opportunities where I can leverage my skills and experiences in data analytics, cybersecurity, and cutting-edge technologies to contribute to impactful projects.<br>🌱 Exploring new tools and techniques, currently diving into Splunk, SIEM, and advanced data analytics.<br>⚡ Fun fact - Security is "MYTH" 
+👩🏻‍💻 Data Analyst and Cybersecurity Enthusiast, specializing in machine learning, data analytics, and innovative tech solutions.<br>👩🏻‍🎓 Studying Computer Science at Amity University, India<br>🔭 Actively seeking opportunities where I can leverage my skills and experiences in data analytics, and cybersecurity.<br>🌱 Exploring new tools and techniques, currently diving into Splunk, SIEM, and advanced data analytics.<br>⚡ Fun fact - Security is "MYTH" 
 
 
 ## 🌐 Socials:
